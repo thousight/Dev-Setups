@@ -1,0 +1,62 @@
+{
+    "javascript.validate.enable": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "eslint.autoFixOnSave": true,
+    "css.validate": true,
+    "scss.validate": false,
+    "less.validate": true,
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.fontSize": 14,
+    "editor.letterSpacing": 0.7,
+    "editor.fontFamily": "'Google Sans', 'Product Sans', Roboto, Menlo, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#2979FF",
+        "list.activeSelectionForeground": "#2979FF",
+        "list.inactiveSelectionForeground": "#2979FF",
+        "list.highlightForeground": "#2979FF",
+        "scrollbarSlider.activeBackground": "#2979FF50",
+        "editorSuggestWidget.highlightForeground": "#2979FF",
+        "textLink.foreground": "#2979FF",
+        "progressBar.background": "#2979FF",
+        "pickerGroup.foreground": "#2979FF",
+        "tab.activeBorder": "#2979FF",
+        "notificationLink.foreground": "#2979FF",
+        "terminal.foreground": "#cfd8dc",
+        "terminal.ansiBlack": "#333333",
+        "terminal.ansiBlue": "#2499ff",
+        "terminal.ansiBrightBlack": "#686868",
+        "terminal.ansiBrightBlue": "#64b5f6",
+        "terminal.ansiBrightCyan": "#60fdff",
+        "terminal.ansiBrightGreen": "#a5d6a7",
+        "terminal.ansiBrightMagenta": "#ff77ff",
+        "terminal.ansiBrightRed": "#e57373",
+        "terminal.ansiBrightWhite": "#ffffff",
+        "terminal.ansiBrightYellow": "#fff176",
+        "terminal.ansiCyan": "#00c5c7",
+        "terminal.ansiGreen": "#66bb6a",
+        "terminal.ansiMagenta": "#ca30c7",
+        "terminal.ansiRed": "#f44336",
+        "terminal.ansiWhite": "#c7c7c7",
+        "terminal.ansiYellow": "#fdca5c"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*.jsx": "javascriptreact"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "terminal.explorerKind": "external",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline"
+}
