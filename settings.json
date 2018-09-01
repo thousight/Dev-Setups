@@ -1,7 +1,7 @@
 {
     "javascript.validate.enable": true,
     "workbench.startupEditor": "newUntitledFile",
-    "eslint.autoFixOnSave": true,
+    "eslint.autoFixOnSave": false,
     "editor.tabSize": 2,
     "css.validate": true,
     "scss.validate": false,
