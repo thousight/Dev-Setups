@@ -1,7 +1,9 @@
 {
     "javascript.validate.enable": true,
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.showTabs": true,
     "eslint.autoFixOnSave": false,
+    "editor.insertSpaces": true,
     "editor.tabSize": 2,
     "css.validate": true,
     "scss.validate": false,
@@ -61,5 +63,6 @@
     "terminal.integrated.shell.osx": "/bin/zsh",
     "terminal.integrated.fontFamily": "Meslo LG M for Powerline",
     "eslint.packageManager": "yarn",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": false
 }
