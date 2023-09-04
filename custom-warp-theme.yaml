@@ -1,0 +1,25 @@
+background: "#33343A"
+accent: "#03AFF0"
+foreground: "#ffffff"
+opacity: 30
+details: darker
+terminal_colors:
+  bright:
+    black: '#373B41'
+    blue: '#4AAAFC'
+    cyan: '#8ABEB7'
+    green: '#91C286'
+    magenta: '#B294BB'
+    red: '#CF6A6A'
+    white: '#FFFFFF'
+    yellow: '#F0C674'
+  normal:
+    black: "#333333"
+    red: "#EB9B94"
+    green: "#74F7B3"
+    yellow: "#EFAD36"
+    blue: "#03AFF0"
+    magenta: "#EF8FF7"
+    cyan: "#9DEAE3"
+    white: "#B9B9B9"
+name: custom-warp-theme
